@@ -1,0 +1,34 @@
+body {
+    font-family: Arial;
+    padding: 15px;
+    background: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+}
+
+#posts {
+    margin-bottom: 20px;
+}
+
+.post {
+    background: white;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+input, textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px;
+    background: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
